@@ -6,7 +6,19 @@ p
 .mainHeader
 {
 	font-size: 48pt;
-	padding: 24px;
-	background-color: rgba(100, 100, 100, 0.3);;
+	font-family: "AR DESTINE";
+	padding-top: 24px;
+	background-color: rgba(100, 100, 100, 0.3);
 	color: white;
+	position: absolute;
+	top: 0%;
+	left: 150px;
+}
+
+#LogoHeader
+{
+	z-index: -1;
+	position: absolute;
+	top: 0%;
+	left: 0%;
 }
