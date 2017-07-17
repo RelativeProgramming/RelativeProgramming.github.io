@@ -15,10 +15,18 @@ p
 	left: 150px;
 }
 
-#LogoHeader
+#logoHeader
 {
 	z-index: -1;
 	position: absolute;
 	top: 0%;
 	left: 0%;
+}
+#spacing
+{
+	padding: 70px;
+}
+.projectlink
+{
+	font-size: 24pt;
 }
